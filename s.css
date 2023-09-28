@@ -1,0 +1,302 @@
+.vector-icon {
+    position: absolute;
+    height: 11.93%;
+    width: 108.54%;
+    top: 88.24%;
+    right: -8.54%;
+    bottom: -0.17%;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .icon,
+  .yellow-bg-icon {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 360px;
+    height: 342.66px;
+  }
+  .icon {
+    top: 72px;
+    right: 42px;
+    border-radius: 262px;
+    width: 185px;
+    height: 190px;
+    object-fit: cover;
+  }
+  .praveen-kumar {
+    position: absolute;
+    top: 19px;
+    left: 16px;
+    line-height: 180%;
+    display: inline-block;
+    font-family: var(--font-comfortaa);
+    color: var(--bg-line);
+    width: 164px;
+    height: 44px;
+  }
+  .text {
+    position: relative;
+    line-height: 150%;
+    font-weight: 500;
+  }
+  .button-primary,
+  .button-primary1,
+  .button-secondary {
+    position: absolute;
+    border-radius: var(--br-5xs);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-5xs) var(--padding-5xl);
+    color: var(--bg-line);
+    font-family: var(--font-roboto);
+  }
+  .button-primary {
+    top: 623px;
+    left: 14px;
+    background-color: var(--brand-yellow);
+    width: 119px;
+    height: 43px;
+    box-sizing: border-box;
+  }
+  .button-primary1,
+  .button-secondary {
+    left: 19px;
+  }
+  .button-primary1 {
+    top: 704px;
+    background-color: var(--brand-yellow);
+  }
+  .button-secondary {
+    top: 776px;
+    border: 2px solid var(--bg-line);
+    box-sizing: border-box;
+    width: 96px;
+  }
+  .hello {
+    margin: 0;
+  }
+  .title-txt {
+    line-break: anywhere;
+    width: 100%;
+  }
+  .title {
+    position: relative;
+    line-height: 120%;
+    display: flex;
+    white-space: pre-wrap;
+    align-items: flex-end;
+    width: 486px;
+  }
+  .i-am-are {
+    margin-block-start: 0;
+    margin-block-end: 2px;
+  }
+  .text3 {
+    position: relative;
+    line-height: 150%;
+    display: inline-block;
+    width: 486px;
+  }
+  .div,
+  .subheadline {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .subheadline {
+    align-self: stretch;
+    padding: 18px 0 0;
+    font-size: 10px;
+    color: var(--font-medium-emphasis);
+    font-family: var(--font-piedra);
+  }
+  .div {
+    position: absolute;
+    top: 419px;
+    left: 19px;
+    width: 320px;
+    height: 204px;
+    padding: 0 472px 0 0;
+    box-sizing: border-box;
+    gap: 10px;
+    font-size: var(--title-h1-size);
+    color: var(--bg-line);
+    font-family: var(--title-h1);
+  }
+  .frame-child {
+    position: relative;
+    width: 24px;
+    height: 16px;
+  }
+  .menu {
+    position: relative;
+    line-height: 8px;
+  }
+  .group-parent {
+    position: absolute;
+    top: 26px;
+    left: 323px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 6px;
+    text-align: center;
+    font-size: 8px;
+    color: #4e5a65;
+  }
+  .ovalesecondary1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 2750px;
+    background-color: var(--brand-yellow);
+  }
+  .ovalesecondary {
+    position: absolute;
+    top: 929px;
+    left: calc(50% - 121px);
+    border-radius: 2px;
+    background: linear-gradient(
+        rgba(255, 255, 255, 0.2),
+        rgba(255, 255, 255, 0.2)
+      ),
+      #fff;
+    width: 266px;
+    height: 56px;
+  }
+  .social-media {
+    position: absolute;
+    top: 944px;
+    left: calc(50% - 88.89px);
+    font-size: var(--title-h1-size);
+    line-height: 136%;
+    font-family: var(--font-luckiest-guy);
+    color: #252525;
+    display: inline-block;
+    width: 494.97px;
+    height: 80.56px;
+    transform: rotate(0.08deg);
+    transform-origin: 0 0;
+  }
+  .discord,
+  .discord-black-icon {
+    position: absolute;
+    top: 1631.9px;
+    left: 47px;
+    width: 59.52px;
+    height: 66.6px;
+  }
+  .discord {
+    top: 1636.09px;
+    left: 134px;
+    font-size: var(--font-size-9xl);
+    line-height: 160%;
+    display: inline-block;
+    width: 167.41px;
+    height: 62.44px;
+  }
+  .pinterest,
+  .pinterest-black-icon {
+    position: absolute;
+    top: 1501.21px;
+    left: 47.39px;
+    width: 59.52px;
+    height: 66.6px;
+  }
+  .pinterest {
+    top: 1503.29px;
+    left: 127.37px;
+    font-size: var(--font-size-9xl);
+    line-height: 160%;
+    display: inline-block;
+    width: 155.01px;
+    height: 62.44px;
+  }
+  .github,
+  .github-black-icon {
+    position: absolute;
+    top: 1368px;
+    left: 47.39px;
+    width: 59.52px;
+    height: 66.6px;
+  }
+  .github {
+    top: 1370.08px;
+    left: 127.37px;
+    font-size: var(--font-size-9xl);
+    line-height: 160%;
+    display: inline-block;
+    width: 116.57px;
+    height: 62.44px;
+  }
+  .instagram,
+  .instagram-black-icon {
+    position: absolute;
+    top: 1026px;
+    left: 87px;
+    width: 30px;
+    height: 30px;
+  }
+  .instagram {
+    left: 124px;
+    font-size: var(--title-h1-size);
+    line-height: 160%;
+    display: inline-block;
+    width: 172.37px;
+    height: 62.44px;
+  }
+  .twitter,
+  .twitter-black-icon {
+    position: absolute;
+    top: 1092px;
+    left: 87px;
+    width: 30px;
+    height: 30px;
+  }
+  .twitter {
+    left: 124px;
+    font-size: var(--title-h1-size);
+    line-height: 160%;
+    display: inline-block;
+    width: 141.37px;
+    height: 62.44px;
+  }
+  .snapchat,
+  .snapchat-black-icon {
+    position: absolute;
+    top: 1261px;
+    left: 57.08px;
+    width: 59.52px;
+    height: 66.6px;
+  }
+  .snapchat {
+    left: 126.52px;
+    font-size: var(--font-size-9xl);
+    line-height: 160%;
+    display: inline-block;
+    width: 200.89px;
+    height: 62.44px;
+  }
+  .mobile {
+    position: relative;
+    background-color: var(--bg-gray);
+    width: 100%;
+    height: 1205px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-lg);
+    color: var(--main-corail);
+    font-family: var(--font-inter);
+  }
+  

@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-roboto: Roboto;
+  --font-luckiest-guy: "Luckiest Guy";
+  --body-18: Raleway;
+  --font-comfortaa: Comfortaa;
+  --font-piedra: Piedra;
+  --title-h1: "Playfair Display";
+  --font-nunito: Nunito;
+
+  /* font sizes */
+  --font-size-9xl: 28px;
+  --body-18-size: 18px;
+  --title-h1-size: 20px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --bg-gray: #f9faff;
+  --main-corail: #fe5e55;
+  --font-medium-emphasis: #828282;
+  --bg-line: #25282b;
+  --brand-yellow: #fdc435;
+  --main-light-corail: #ffe4e0;
+
+  /* Gaps */
+  --gap-13xl: 32px;
+  --gap-5xl: 24px;
+
+  /* Paddings */
+  --padding-5xs: 8px;
+  --padding-5xl: 24px;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+}
